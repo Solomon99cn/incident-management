@@ -26,4 +26,5 @@ The db is deployed by HDI to cloud HANA database.
 
 ## Learn More
 
+add this from the BAS
 Learn more at https://cap.cloud.sap/docs/get-started/.
