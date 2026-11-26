@@ -4,6 +4,8 @@ Welcome to your new project.
 
 It contains these folders and files, following our recommended project layout:
 
+
+
 File or Folder | Purpose
 ---------|----------
 `app/` | content for UI frontends goes here
@@ -18,6 +20,8 @@ File or Folder | Purpose
 - Open a new terminal and run `cds watch`
 - (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
 - Start adding content, for example, a [db/schema.cds](db/schema.cds).
+
+The db is deployed by HDI to cloud HANA database.
 
 
 ## Learn More
